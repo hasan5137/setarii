@@ -1,0 +1,2 @@
+# setarii
+test new project 
